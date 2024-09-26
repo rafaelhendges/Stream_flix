@@ -1,2 +1,2 @@
 # Stream_flix
-código modular e flexível, usando padrões de projeto como Factory e Adapter.
+Modular and flexible code, using design patterns such as Factory and Adapter
